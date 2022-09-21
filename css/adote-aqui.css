@@ -1,0 +1,10 @@
+.adoção{
+    display: flex;
+    justify-content: space-evenly;
+    border: solid 2px; 
+    align-items: center;
+}
+.adoção{
+    width="320" height="205"
+
+}
